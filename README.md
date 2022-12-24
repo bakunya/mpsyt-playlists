@@ -12,10 +12,11 @@ Share your mps youtube playlists in here
 1. You can manual edit this file through vscode or others text editor
 2. Or you can directly edit on mps-youtube
 
-**Feel free to share yours in here**
-**Please make sure that songs in your playlists available on youtube**
-**Example**
-``m3u
+## Notes
+- **Feel free to share yours in here**
+- **Please make sure that songs in your playlists available on youtube**
+- **Example**
+````m3u
 #EXTINF:266,Loading Memories | Magical Mirai 2022
 https://www.youtube.com/watch?v=m9FIXlvKMl4
-``
+````
